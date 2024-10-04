@@ -27,6 +27,16 @@
 <img src ="https://github.com/devicons/devicon/blob/v2.16.0/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="100" height ="100"/>
 </p>
 
+
+![40k-nod](https://github.com/jreeve65/jreeve65/blob/2265fbea1e7a54c5db9284a5c184890b44183d62/space-marine-nod.gif)
+
+
+
 ![jreeve65githubstats](https://github-readme-stats.vercel.app/api?username=jreeve65&show_icons=true&theme=prussian) 
+
+
+![star-map](https://github.com/jreeve65/jreeve65/blob/2265fbea1e7a54c5db9284a5c184890b44183d62/star-map.gif)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jreeve65&layout=donut-vertical&theme=prussian)](https://github.com/jreeve65/github-readme-stats)
 </div>
