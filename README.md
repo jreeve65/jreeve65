@@ -26,4 +26,7 @@
 <img src ="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="100" height ="100"/>
 <img src ="https://github.com/devicons/devicon/blob/v2.16.0/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="100" height ="100"/>
 </p>
+
+![jreeve65githubstats](https://github-readme-stats.vercel.app/api?username=jreeve65&show_icons=true&theme=prussian) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jreeve65&layout=donut-vertical&theme=prussian)](https://github.com/jreeve65/github-readme-stats)
 </div>
