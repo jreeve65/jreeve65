@@ -28,14 +28,12 @@
 </p>
 
 
-![40k-nod](https://github.com/jreeve65/jreeve65/blob/c09524ac6b918954626f7183473a591e0da8046f/space-marine-nod.gif)
 
 
 
 ![jreeve65githubstats](https://github-readme-stats.vercel.app/api?username=jreeve65&show_icons=true&theme=prussian) 
 
 
-![star-map](https://github.com/jreeve65/jreeve65/blob/c09524ac6b918954626f7183473a591e0da8046f/star-map.gif)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jreeve65&layout=donut-vertical&theme=prussian)](https://github.com/jreeve65/github-readme-stats)
